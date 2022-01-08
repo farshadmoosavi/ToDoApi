@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoApi2", "ToDoApi2\ToDoApi2.csproj", "{C3D72B60-26B0-46C0-8CB1-91A831CEBC86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{47581030-A18C-46D9-B291-C93986A04EF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7C9F9AFF-D88C-4B08-8F8B-95F5A8314479}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3D72B60-26B0-46C0-8CB1-91A831CEBC86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D72B60-26B0-46C0-8CB1-91A831CEBC86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D72B60-26B0-46C0-8CB1-91A831CEBC86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D72B60-26B0-46C0-8CB1-91A831CEBC86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47581030-A18C-46D9-B291-C93986A04EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47581030-A18C-46D9-B291-C93986A04EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47581030-A18C-46D9-B291-C93986A04EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47581030-A18C-46D9-B291-C93986A04EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9F9AFF-D88C-4B08-8F8B-95F5A8314479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9F9AFF-D88C-4B08-8F8B-95F5A8314479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9F9AFF-D88C-4B08-8F8B-95F5A8314479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9F9AFF-D88C-4B08-8F8B-95F5A8314479}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCC32FC8-A8D6-4B2F-A677-4C177AC8B76B}
+	EndGlobalSection
+EndGlobal
